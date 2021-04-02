@@ -1,8 +1,8 @@
 # bloctutorial
 
 <p>
-<img src="https://github.com/virtz/recipe-app/blob/master/appScreen1.png" width:"150px" height="400" hspace="5" vspace="20"/>
-<img src="https://github.com/virtz/recipe-app/blob/master/appScreen2.png" width:"150px" height="400" hspace="5" vspace="20"/>
+<img src="https://github.com/virtz/recipe-app/blob/main/appScreen1.png" width:"150px" height="400" hspace="5" vspace="20"/>
+<img src="https://github.com/virtz/recipe-app/blob/main/appScreen2.png" width:"150px" height="400" hspace="5" vspace="20"/>
 </p>
 
 <p>
